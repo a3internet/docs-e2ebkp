@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-1dpo7b.pulaucuan.sbs/sitemap.xml
